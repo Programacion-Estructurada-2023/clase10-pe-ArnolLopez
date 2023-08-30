@@ -1,0 +1,15 @@
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\bin\Debug\net7.0\clase10-pe-ArnolLopez.exe
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\bin\Debug\net7.0\clase10-pe-ArnolLopez.deps.json
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\bin\Debug\net7.0\clase10-pe-ArnolLopez.runtimeconfig.json
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\bin\Debug\net7.0\clase10-pe-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\bin\Debug\net7.0\clase10-pe-ArnolLopez.pdb
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.csproj.AssemblyReference.cache
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.AssemblyInfoInputs.cache
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.AssemblyInfo.cs
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.csproj.CoreCompileInputs.cache
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\refint\clase10-pe-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.pdb
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\clase10-pe-ArnolLopez.genruntimeconfig.cache
+C:\Users\Dark\Documents\UNI\Practica 1\clase10-pe-ArnolLopez\obj\Debug\net7.0\ref\clase10-pe-ArnolLopez.dll
